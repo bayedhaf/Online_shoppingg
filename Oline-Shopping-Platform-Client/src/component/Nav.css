@@ -1,0 +1,8 @@
+
+
+.nav-item{
+    display: inline-block;
+    padding: 5px;
+    font-size: large;
+    transition: background-color 0.3s;
+}
