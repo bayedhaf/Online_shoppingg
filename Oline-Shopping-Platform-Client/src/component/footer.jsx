@@ -21,8 +21,8 @@ const footer = () => {
             </a>
             <br />
             Phone:{" "}
-            <a href="tel:+123456789" class="hover:underline">
-              +123 456 789
+            <a href="tel:+251916656489" class="hover:underline">
+         +251916656489
             </a>
           </p>
           <div class="flex space-x-4 mt-4">
@@ -40,7 +40,7 @@ const footer = () => {
       </div>
 
       <div class="mt-8 border-t border-gray-200 pt-4 text-center text-sm">
-        <p>&copy; 2024 YourCompany. All rights reserved.</p>
+        <p>&copy; 2025 YourCompany. All rights reserved.</p>
       </div>
     </footer>
   );
