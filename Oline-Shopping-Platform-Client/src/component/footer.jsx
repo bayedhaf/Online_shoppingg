@@ -8,7 +8,8 @@ const footer = () => {
           <h3 class="font-bold text-lg mb-4">About Us</h3>
           <p class="text-sm w-1/3">
             We are a passionate team dedicated to providing quality content and
-            services. Contact us to learn more about our mission and vision.
+            services. Contact us to learn more about our mission and vision and our brand material.
+            only one come to our shopping after that to get supprising 
           </p>
         </div>
 
